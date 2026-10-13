@@ -1,4 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+# RoboLab @ CAIRO.thws
+
+**Robotics research at the Center for Artificial Intelligence and Robotics (CAIRO)**
+
+**Technical University Würzburg-Schweinfurt (THWS)**
+
+</div>
+
+### 🤖 About us
 
 <!--
 
